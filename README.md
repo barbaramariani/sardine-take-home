@@ -49,3 +49,8 @@ curl -X POST \
       {"id": 6, "user_id": 2, "amount_us_cents": 100000, "card_id": 4}
     ]
   }'
+````
+
+## Walkthrough Video
+
+Check out this [Loom recording](https://www.loom.com/share/57b6eb2588f64bdfb8e3f5663bf64f9b) for a 5 min walkthrough of the code.
